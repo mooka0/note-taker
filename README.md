@@ -7,7 +7,7 @@ git clone https://github.com/mooka0/note-taker.git
 Npm install to install all dependencies. To run the application locally, use node server.js and open to http://localhost:3000. 
 
 # Deployed Link
-https://mooka0.github.io/note-taker/
+https://note-taker-project-11.herokuapp.com/
 
 # Preview 
 
